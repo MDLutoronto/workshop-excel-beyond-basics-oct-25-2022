@@ -1,13 +1,24 @@
 ---
-title: Home   # Title of the page, which will be displayed in the navigation and the browser title.
-layout: page  # Layout type, usually 'page' for standard pages.
-nav_order: 1  # Order in the navigation menu.
-description:  # A brief description of the page for SEO purposes.
-permalink: /  # Optional: Custom URL for the page. It will serve as the slug. For example, /home/
-created_date:  # Date when the page was created. Should be in YYYY-MM-DD format.
-has_children: False  # Set to True if the page has sub-pages.
+title: "Workshop Recording: Excel: Beyond the Basics (Oct. 25, 2022)"
+layout: "home"
+description: ""
+permalink: "/"  #! Remove this if not the homepage
 ---
 
-# Just the docs template
+# Workshop Recording: Excel: Beyond the Basics (Oct. 25, 2022)
 
-See the <a href="https://mdlutoronto.github.io/jtd-edit-setup/docs/create-new-guide/" target="_blank"> Create a New Guide</a> page to get started with creating your own guide!
+This page provides a video recording of a workshop on using intermediate features of Excel.
+
+**Workshop Description:**
+
+Excel is a popular spreadsheet software that allows you to organize, modify and analyse your data. In this **2 hour hands\-on workshop**, you will gain a deeper understanding of the uses and types of data that can be manipulated in Excel. Through practical exercises using real world data, you will learn important terminology, explore methods for manipulating and cleaning your data, use built\-in calculations and functions to analyze your data, and create compelling visualizations.
+
+This workshop assumes you have used Excel before at a basic level, but haven’t explored all it has to offer. The goal is to show you alternate ways to do things you already know how to do, as well as help you pick up some new Excel skills. There are no prerequisites or assumptions of knowledge of math, statistics, or programming.
+
+Note: This workshop works with Excel with Microsoft 365 for Windows – if you are using an older version or Excel for Mac, availability and location of some features may differ – a quick Internet search will usually reveal the steps to access a feature in a particular version.
+
+UofT members can [download Excel](https://uthrprod.service-now.com/infocomm?id=kb_article_view&sys_kb_id=bd69790b475451d0c36312c2e36d4395) as part of Microsoft Office 365\.
+
+[**Recording \- 1:27:58**](https://play.library.utoronto.ca/watch/783ace1e976c24eea992e3f1308568b4)**,** [**Workshop File**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/Workshop_TTC_data.xlsx) **\&** [**PDF Walkthrough**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/ExcelWorkshop_2022.pdf)**(includes how to get slides, workshop files, handouts, etc.)**
+
+Technique: [Extracting data](/technique/extracting-data) \| Tools: [Excel](/tools/excel-0)**Date Created:** 2025\-01\-28**Updated:** 2025\-02\-10
