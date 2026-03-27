@@ -6,6 +6,9 @@ permalink: "/"  #! Remove this if not the homepage
 staff:
  - name: Kara Handren
    link: https://library.utoronto.ca/staff/kara-handren
+maintainer:
+ - name: Kara Handren
+   link: https://library.utoronto.ca/staff/kara-handren
 ---
 
 # Workshop Recording: Excel: Beyond the Basics (Oct. 25, 2022)
