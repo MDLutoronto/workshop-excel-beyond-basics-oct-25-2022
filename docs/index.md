@@ -27,6 +27,6 @@ UofT members can [download Excel](https://uthrprod.service-now.com/infocomm?id=k
 
 [**Recording \- 1:27:58**](https://play.library.utoronto.ca/watch/783ace1e976c24eea992e3f1308568b4)**,** [**Workshop File**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/Workshop_TTC_data.xlsx) **&** [**PDF Walkthrough**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/ExcelWorkshop_2022.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-Technique: [Extracting data](/technique/extracting-data) \| Tools: [Excel](/tools/excel-0)
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Excel](https://mdlutoronto.github.io/tutorials-search/?tool=Excel)
 
 **Date Created:** 2025\-01\-28 **Updated:** 2025\-02\-10
