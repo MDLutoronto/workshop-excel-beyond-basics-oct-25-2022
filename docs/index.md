@@ -26,8 +26,12 @@ Note: This workshop works with Excel with Microsoft 365 for Windows – if you a
 
 UofT members can [download Excel](https://uthrprod.service-now.com/infocomm?id=kb_article_view&sys_kb_id=bd69790b475451d0c36312c2e36d4395) as part of Microsoft Office 365.
 
+[**Recording - 1:27:58**](https://play.library.utoronto.ca/watch/783ace1e976c24eea992e3f1308568b4)**
+
 <iframe width="560" height="315" src="https://play.library.utoronto.ca/embed/783ace1e976c24eea992e3f1308568b4" frameborder="0" allowfullscreen> iframe not supported </iframe>
 
-[**Recording - 1:27:58**](https://play.library.utoronto.ca/watch/783ace1e976c24eea992e3f1308568b4)**,** [**Workshop File**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/Workshop_TTC_data.xlsx) **&** [**PDF Walkthrough**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/ExcelWorkshop_2022.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
+** [**Workshop File**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/Workshop_TTC_data.xlsx)
+
+[**PDF Walkthrough**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/ExcelWorkshop_2022.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
 **Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Excel](https://mdlutoronto.github.io/tutorials-search/?tool=Excel)
