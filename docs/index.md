@@ -4,11 +4,11 @@ layout: "home"
 description: "This page provides a video recording of a workshop on using intermediate features of Excel."
 permalink: "/"  #! Remove this if not the homepage
 staff:
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 maintainer:
- - name: Kara Handren
-   link: https://library.utoronto.ca/staff/kara-handren
+    - name: Kara Handren
+      link: https://library.utoronto.ca/staff/kara-handren
 created_date: 2025-01-28
 ---
 
@@ -34,4 +34,4 @@ UofT members can [download Excel](https://uthrprod.service-now.com/infocomm?id=k
 
 [**PDF Walkthrough**](https://maps.library.utoronto.ca/workshops/Excel/Excel2022/ExcelWorkshop_2022.pdf) **(includes how to get slides, workshop files, handouts, etc.)**
 
-**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | **Tools:** [Excel](https://mdlutoronto.github.io/tutorials-search/?tool=Excel)
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [Excel](https://mdlutoronto.github.io/tutorials-search/?tool=Excel)
